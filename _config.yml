@@ -18,7 +18,7 @@ nav-links:
     url: /
     external: false
   - name: Resume
-    url: /deepamarti.github.io/resume
+    url: /resume
     external: false
 
 # for the homepage image + big text next to it
