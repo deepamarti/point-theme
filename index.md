@@ -9,7 +9,7 @@ I'm a second-year Computer Science major at the University of California, Davis 
 Currently, I'm interning at [CloudKnox Security](https://cloudknox.io/) on the Engineering team.  
 
 <p>&nbsp;</p>
-Thank you for stopped by, I would love for you to reach out!
+Thank you for stopping by, I would love for you to reach out!
 
 ### Wanna chat? Let's connect!
 - Email: drmarti (at) ucdavis.edu  
