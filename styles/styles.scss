@@ -1,10 +1,10 @@
 ---
 ---
 
-$accent-color: #b00; // link color
+$accent-color: rgb(42, 175, 146); // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
-$container-max-width: 700px;
+$container-max-width: 900px;
 
 // reset
 * {
@@ -30,12 +30,17 @@ nav {
 }
 
 nav li {
+  text-decoration: none;
   list-style: none;
   display: inline-block;
+  font-size: 20px;
   margin: 0;
+  font-weight: 700;
 }
 
 nav a {
+  text-decoration: none;
+  text-transform: lowercase;
   margin-right: 1rem;
 }
 
@@ -50,6 +55,7 @@ h3 {
 h1 {
   font-size: 2.5rem;
   margin-top: 1rem;
+  
 }
 
 .global-title {
@@ -76,7 +82,7 @@ li {
   font-size: 1rem;
   line-height: 150%;
   color: #444;
-  margin: 1.25rem 0;
+  // margin: 1.25rem 0;
 }
 
 li {
