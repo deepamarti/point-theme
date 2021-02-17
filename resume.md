@@ -7,20 +7,17 @@ title: Resume
 University of California, Davis: Bachelor of Science, Computer Science  
 University Honors Program   
 **Expected Graduation:** June 2023  
-**Relevant Coursework:** Data Structures & Algorithms, Object-Oriented Programming in C++, Machine Dependent Programming, Discrete Math, Python for Programmers, Calculus
+**Relevant Coursework:** Object-Oriented Programming in C++, Data Structures & Algorithms, Algorithm Design & Analysis, Computer Architecture, Operating Systems, Introduction to Design
 
 ### Experience
 
+**Incoming Software Development Intern, Wells Fargo**, Starting June 2021
+<p>&nbsp;</p>
 **Engineering Intern, CloudKnox Security**, August 2020 - Present  
 - Currently interning at startup cloud security company as part of the Engineering team
 - Creating an API documentation page using Slate to be used by customers  
 <p>&nbsp;</p>
-**Volunteer Web Developer, Make CS Count in California**, June 2020 - Present  
-- Volunteering to create a comprehensive website for a new organization from scratch
-- Used HTML, CSS, and JavaScript to build the site while coordinating with 10 other contributors
-<p>&nbsp;</p>
-**Robotics Intern, UCD Center for Integrated Computing and STEM Education**, January 2020 - April 2020
-- Worked with Dr. Harry Cheng to test and develop a C and C++ programming curriculum to be used at the annual Roboplay competition by over 130 teams of students
+
 
 ### Projects
 
@@ -34,14 +31,19 @@ University Honors Program
 **Director of Internal and External Affairs, Davis Women in Computer Science**, September 2019 - Present
 - Connected with the CS community by attending weekly meetings and professional development workshops
 - Responsible for coordinating and executing events in partnership with companies and other campus organizations
+- Elected as Co-President for the next school year
 <p>&nbsp;</p>
 **Active Member, Include**, January 2020 - April 2020
 - Part of organization that provides web and mobile app development services for local non-profits
 - Used HTML and CSS to program a home page, navigation bar, and a picture slideshow for the Davis Night Market website
 
 ### Skills
-- Java, C, C++, Python, UNIX, HTML, CSS, Git
-- Strong leadership, communication, and collaboration skills
+- C/C++, Java, Python
+- Git, GitHub, Postman, Jira
+- HTML/CSS
+- Git, GitHub
+- Basic MATLAB
+
 
 
 
