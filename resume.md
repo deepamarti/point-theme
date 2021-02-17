@@ -13,6 +13,7 @@ University Honors Program
 
 **Incoming Software Development Intern, Wells Fargo**, Starting June 2021
 <p>&nbsp;</p>
+
 **Engineering Intern, CloudKnox Security**, August 2020 - Present  
 - Currently interning at startup cloud security company as part of the Engineering team
 - Creating an API documentation page using Slate to be used by customers  
