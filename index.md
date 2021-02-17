@@ -6,7 +6,6 @@ Title: Hi, I'm Deepa
 
 I'm a second-year Computer Science major at the University of California, Davis in the University Honors Program. I'm fascinated by the intersection of computer science and design, as well as how technology can be used to connect people. 
 <p>&nbsp;</p>
-Currently, I'm interning at [CloudKnox Security](https://cloudknox.io/) on the Engineering team.  
 
 ### Wanna chat? Let's connect!
 - Email: drmarti (at) ucdavis.edu  
