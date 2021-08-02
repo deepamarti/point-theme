@@ -20,6 +20,12 @@ nav-links:
   - name: Resume
     url: /resume
     external: false
+  - name: Articles
+    url: /articles
+    external: false
+  - name: Contact
+    url: /contact
+    external: false
 
 # for the homepage image + big text next to it
 # greeting_image: /assets/me.jpg
