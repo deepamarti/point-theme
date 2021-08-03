@@ -40,7 +40,7 @@ excerpt_word_count: 70
 long_date: false
 # short date: Apr ‘69
 short_date: true
-
+google_analytics: UA-171623258-1
 #
 #
 # things you probably don't want to change
@@ -61,4 +61,3 @@ defaults:
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
-google-analytics: UA-203962838-1
