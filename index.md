@@ -4,9 +4,8 @@ Title: Hi, I'm Deepa
 
 ## Hello, I'm Deepa!
 
-I'm a third-year Computer Science major at the University of California, Davis in the University Honors Program. I'm fascinated by the intersection of computer science and design, as well as how technology can be used to connect people. 
+I'm a third-year Computer Science major at the University of California, Davis in the University Honors Program. I'm fascinated by the intersection of computer science and design, as well as how technology can be used to connect people. I have previously interned at Wells Fargo and CloudKnox Security. 
 <p>&nbsp;</p>
-I'm currently a Technology Intern at Wells Fargo.
 
 <p>&nbsp;</p>
 
